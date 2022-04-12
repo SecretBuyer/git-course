@@ -1,1 +1,1 @@
-document.body.innerHTML = '<h5> Hello from java script </h5>'
+document.body.innerHTML = '<h5> "git add ." - adding all files from directory </h5>'
